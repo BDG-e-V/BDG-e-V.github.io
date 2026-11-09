@@ -5,6 +5,7 @@ Official static website for **BDG e. V.** – registered at Amtsgericht Charlott
 ## Contents
 
 - `index.html`: Home page with association purpose, activities, and contact details
+- `impressum.html`: Official Legal Notice (Impressum) with register details and board members
 - `satzung.html`: Official Articles of Association (Satzung)
 - `main.css`: Minimal text-first styling
 - `.github/workflows/deploy.yml`: Automated deployment to GitHub Pages via GitHub Actions
